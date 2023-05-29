@@ -55,11 +55,14 @@ body {
   padding-right: 3rem;
   width: 100%;
 }
+
 .navlogo {
   z-index: 100;
-  width: 230px;
+  width: 120px;
   height: auto;
   position: relative;
+  margin: auto;
+  top: -48px;
 }
 .menu-button {
   z-index: 100;
@@ -1461,7 +1464,7 @@ textarea.hs-input {
         overflow: visible;
     }
     .navlogo {
-        width: 190px;
+        width: 80px;
         position: relative;
     }
     .menu-button {
